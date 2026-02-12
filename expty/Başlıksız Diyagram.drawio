@@ -251,26 +251,114 @@
             <mxPoint x="140" y="2570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="banREk6lfHNLzXonjIwj-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PPS+LAB TESTİ gönderilir" vertex="1">
+        <mxCell id="banREk6lfHNLzXonjIwj-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PPS YAPILIR" vertex="1">
           <mxGeometry height="60" width="120" x="80.00999999999999" y="2430" as="geometry" />
         </mxCell>
-        <mxCell id="banREk6lfHNLzXonjIwj-92" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="pps+lab testinden geçildi mi ?" vertex="1">
-          <mxGeometry height="120" width="124.99" x="77.51" y="2570" as="geometry" />
-        </mxCell>
-        <mxCell id="banREk6lfHNLzXonjIwj-94" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hayır" vertex="1">
-          <mxGeometry height="30" width="60" x="206.88" y="2580" as="geometry" />
-        </mxCell>
-        <mxCell id="banREk6lfHNLzXonjIwj-95" edge="1" parent="1" source="banREk6lfHNLzXonjIwj-92" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="430" y="2650" as="sourcePoint" />
-            <mxPoint x="380" y="2630" as="targetPoint" />
+        <mxCell id="1Xib3VTixCMWsArMFsV8-5" edge="1" parent="1" source="1Xib3VTixCMWsArMFsV8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="2700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="banREk6lfHNLzXonjIwj-96" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Kalma sebebi belirlendi mi ?" vertex="1">
-          <mxGeometry height="100" width="135" x="375" y="2580" as="geometry" />
+        <mxCell id="1Xib3VTixCMWsArMFsV8-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Teste gönderilir" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="2570" as="geometry" />
         </mxCell>
-        <mxCell id="banREk6lfHNLzXonjIwj-97" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Evet" vertex="1">
-          <mxGeometry height="30" width="60" x="520" y="2590" as="geometry" />
+        <mxCell id="1Xib3VTixCMWsArMFsV8-10" edge="1" parent="1" source="1Xib3VTixCMWsArMFsV8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1Xib3VTixCMWsArMFsV8-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="142.42000000000007" y="2920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-41" edge="1" parent="1" source="1Xib3VTixCMWsArMFsV8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="2760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Testten geçti mi ?" vertex="1">
+          <mxGeometry height="120" width="137" x="73.92000000000002" y="2700" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hayır" vertex="1">
+          <mxGeometry height="30" width="60" x="206.88" y="2710" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Evet" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="2820" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-12" edge="1" parent="1" source="1Xib3VTixCMWsArMFsV8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1Xib3VTixCMWsArMFsV8-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="143.22000000000003" y="3070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Üretim için kumaş çekilir ?" vertex="1">
+          <mxGeometry height="70" width="137.58" x="74.43" y="2890" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-15" edge="1" parent="1" source="1Xib3VTixCMWsArMFsV8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="143.22000000000003" y="3190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tek beden numunesi çalışılır" vertex="1">
+          <mxGeometry height="60" width="120" x="83.22000000000003" y="3040" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-20" edge="1" parent="1" source="1Xib3VTixCMWsArMFsV8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="143.22000000000003" y="3440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-40" edge="1" parent="1" source="1Xib3VTixCMWsArMFsV8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="3245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Tek beden Numunesi onaylandı mı ?" vertex="1">
+          <mxGeometry height="130" width="154.52" x="65.96000000000001" y="3180" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Evet" vertex="1">
+          <mxGeometry height="30" width="60" x="160.48" y="3310" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-23" edge="1" parent="1" source="1Xib3VTixCMWsArMFsV8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1Xib3VTixCMWsArMFsV8-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="143.21500000000015" y="3690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kesim Dikim Yıkama Boyama ve Paket işlemlerine gönderilir&amp;nbsp;" vertex="1">
+          <mxGeometry height="100" width="177.49" x="54.470000000000006" y="3440" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hayır" vertex="1">
+          <mxGeometry height="30" width="60" x="231.95999999999998" y="3190" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-26" edge="1" parent="1" source="1Xib3VTixCMWsArMFsV8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1Xib3VTixCMWsArMFsV8-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Finale gidilir" vertex="1">
+          <mxGeometry height="90" width="136.78" x="74.43" y="3660" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-29" edge="1" parent="1" source="1Xib3VTixCMWsArMFsV8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="143.22000000000003" y="4140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-39" edge="1" parent="1" source="1Xib3VTixCMWsArMFsV8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="3915" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Finalden Geçildi mi ?" vertex="1">
+          <mxGeometry height="130" width="170" x="58.22000000000003" y="3850" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EVET" vertex="1">
+          <mxGeometry height="30" width="60" x="160.48" y="3980" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-35" edge="1" parent="1" source="1Xib3VTixCMWsArMFsV8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="4320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ürünlerin alımı yapılır" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="4130" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Bitiş" vertex="1">
+          <mxGeometry height="60" width="120" x="80.94" y="4320" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hayır" vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="3880" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
