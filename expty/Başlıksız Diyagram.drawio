@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="Sayfa -1" id="Zq1XwL6BJFrbouuzvJcs">
-    <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,7 +241,7 @@
         </mxCell>
         <mxCell id="1Xib3VTixCMWsArMFsV8-41" edge="1" parent="1" source="1Xib3VTixCMWsArMFsV8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="2760" as="targetPoint" />
+            <mxPoint x="340" y="2760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1Xib3VTixCMWsArMFsV8-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Testten geçti mi ?" vertex="1">
@@ -334,6 +334,172 @@
         </mxCell>
         <mxCell id="1Xib3VTixCMWsArMFsV8-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fit çalışılır" vertex="1">
           <mxGeometry height="60" width="120" x="86.88" y="2281" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yeniden dikimini yap ve bir daha onaya gönder" vertex="1">
+          <mxGeometry height="90" width="160" x="360" y="3200" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-19" edge="1" parent="1" source="slRtmOML4Cu0QKLQynJd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="2765" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Testten kalma sebebi belirlendi mi ?" vertex="1">
+          <mxGeometry height="130" width="160" x="330" y="2700" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Evet" vertex="1">
+          <mxGeometry height="30" width="60" x="480" y="2710" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hayır" vertex="1">
+          <mxGeometry height="30" width="60" x="490" y="2850" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-46" edge="1" parent="1" source="slRtmOML4Cu0QKLQynJd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="2760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Önce kalma sebebi belirlenmek zorunda" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="2890" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-20" edge="1" parent="1" source="slRtmOML4Cu0QKLQynJd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="slRtmOML4Cu0QKLQynJd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-21" edge="1" parent="1" source="slRtmOML4Cu0QKLQynJd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="2763.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Testten kalma sebebi ile ilgili gerekli yapılara bilgi verildi mi ?" vertex="1">
+          <mxGeometry height="127.5" width="170" x="730" y="2700" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Evet" vertex="1">
+          <mxGeometry height="30" width="60" x="880" y="2710" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hayır" vertex="1">
+          <mxGeometry height="30" width="60" x="880" y="2860" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-47" edge="1" parent="1" source="slRtmOML4Cu0QKLQynJd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="2770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gerekli yapılara bilgi vermelisin" vertex="1">
+          <mxGeometry height="60" width="120" x="755" y="2930" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-22" edge="1" parent="1" source="slRtmOML4Cu0QKLQynJd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="slRtmOML4Cu0QKLQynJd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="İlgili değişiklikler yapıldı mı ?" vertex="1">
+          <mxGeometry height="130" width="180" x="1040" y="2700" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hayır" vertex="1">
+          <mxGeometry height="30" width="60" x="1160" y="2840" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Evet" vertex="1">
+          <mxGeometry height="30" width="60" x="1140" y="2640" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-48" edge="1" parent="1" source="slRtmOML4Cu0QKLQynJd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="2760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="İlgili değişiklikleri yapmak zorundayız" vertex="1">
+          <mxGeometry height="60" width="120" x="1070" y="2920" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-18" edge="1" parent="1" source="slRtmOML4Cu0QKLQynJd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" target="slRtmOML4Cu0QKLQynJd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="slRtmOML4Cu0QKLQynJd-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1130" y="2650" as="sourcePoint" />
+            <mxPoint x="1030" y="2650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1130" y="2650" as="sourcePoint" />
+            <mxPoint x="140" y="2650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-27" edge="1" parent="1" source="slRtmOML4Cu0QKLQynJd-1" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="820" y="3230" as="sourcePoint" />
+            <mxPoint x="440" y="3140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-28" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="3140" as="sourcePoint" />
+            <mxPoint x="140" y="3140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-29" edge="1" parent="1" source="slRtmOML4Cu0QKLQynJd-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="3915" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-30" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Finalden kalma sebebi belirlendi mi ?" vertex="1">
+          <mxGeometry height="130" width="160" x="370" y="3850" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Evet" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="3860" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hayır" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="4000" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-45" edge="1" parent="1" source="slRtmOML4Cu0QKLQynJd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="3920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Önce kalma sebebi belirlenmek zorunda" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="4040" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-34" edge="1" parent="1" source="slRtmOML4Cu0QKLQynJd-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="4080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-35" edge="1" parent="1" source="slRtmOML4Cu0QKLQynJd-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="3913.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-36" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Finalden kalma sebebi ile ilgili gerekli yapılara bilgi verildi mi ?" vertex="1">
+          <mxGeometry height="127.5" width="170" x="770" y="3850" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Evet" vertex="1">
+          <mxGeometry height="30" width="60" x="920" y="3860" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hayır" vertex="1">
+          <mxGeometry height="30" width="60" x="920" y="4010" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-39" edge="1" parent="1" source="slRtmOML4Cu0QKLQynJd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="slRtmOML4Cu0QKLQynJd-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-40" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="İlgili değişiklikler yapıldı mı ?" vertex="1">
+          <mxGeometry height="130" width="180" x="1080" y="3850" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hayır" vertex="1">
+          <mxGeometry height="30" width="60" x="1200" y="3990" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-50" edge="1" parent="1" source="slRtmOML4Cu0QKLQynJd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="3910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="İlgili değişiklikleri yapmak zorundayız" vertex="1">
+          <mxGeometry height="60" width="120" x="1110" y="4070" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-43" edge="1" parent="1" source="slRtmOML4Cu0QKLQynJd-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" target="slRtmOML4Cu0QKLQynJd-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-49" edge="1" parent="1" source="slRtmOML4Cu0QKLQynJd-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="3920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slRtmOML4Cu0QKLQynJd-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gerekli yapılara bilgi vermelisin" vertex="1">
+          <mxGeometry height="60" width="120" x="795" y="4080" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
