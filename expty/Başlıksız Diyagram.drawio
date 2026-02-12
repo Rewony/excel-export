@@ -206,45 +206,17 @@
         </mxCell>
         <mxCell id="banREk6lfHNLzXonjIwj-82" edge="1" parent="1" source="banREk6lfHNLzXonjIwj-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="2240" as="targetPoint" />
+            <mxPoint x="140" y="2280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="banREk6lfHNLzXonjIwj-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Aksesuar Siparişi geçilir" vertex="1">
           <mxGeometry height="60" width="120" x="80" y="2110" as="geometry" />
         </mxCell>
-        <mxCell id="banREk6lfHNLzXonjIwj-85" edge="1" parent="1" source="banREk6lfHNLzXonjIwj-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="banREk6lfHNLzXonjIwj-90" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="banREk6lfHNLzXonjIwj-91">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="2291.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="banREk6lfHNLzXonjIwj-90" edge="1" parent="1" source="banREk6lfHNLzXonjIwj-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="banREk6lfHNLzXonjIwj-91">
-          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140.01" y="2341" as="sourcePoint" />
             <mxPoint x="140.01" y="2460" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="banREk6lfHNLzXonjIwj-81" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Fit çalışıldı mı ?" vertex="1">
-          <mxGeometry height="99" width="110" x="85.00999999999999" y="2242" as="geometry" />
-        </mxCell>
-        <mxCell id="banREk6lfHNLzXonjIwj-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="hayır" vertex="1">
-          <mxGeometry height="30" width="60" x="212.51" y="2250" as="geometry" />
-        </mxCell>
-        <mxCell id="banREk6lfHNLzXonjIwj-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fit çalışmalısın" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="2261.5" as="geometry" />
-        </mxCell>
-        <mxCell id="banREk6lfHNLzXonjIwj-86" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="380" y="2260" as="sourcePoint" />
-            <mxPoint x="380" y="2200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="banREk6lfHNLzXonjIwj-87" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="380" y="2200" as="sourcePoint" />
-            <mxPoint x="140" y="2200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="banREk6lfHNLzXonjIwj-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Evet" vertex="1">
-          <mxGeometry height="30" width="60" x="160" y="2350" as="geometry" />
         </mxCell>
         <mxCell id="banREk6lfHNLzXonjIwj-93" edge="1" parent="1" source="banREk6lfHNLzXonjIwj-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
@@ -359,6 +331,9 @@
         </mxCell>
         <mxCell id="1Xib3VTixCMWsArMFsV8-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hayır" vertex="1">
           <mxGeometry height="30" width="60" x="230" y="3880" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xib3VTixCMWsArMFsV8-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fit çalışılır" vertex="1">
+          <mxGeometry height="60" width="120" x="86.88" y="2281" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
