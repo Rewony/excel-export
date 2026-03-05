@@ -645,6 +645,21 @@
         <mxCell id="Z06kAq_kfyFcc4M46n51-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sub ağaç tasırımı yapıalcak" vertex="1">
           <mxGeometry height="70" width="190" x="220.48" y="4480" as="geometry" />
         </mxCell>
+        <mxCell id="6gkw_ak-5Fi31MjoUiL3-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Evet" vertex="1">
+          <mxGeometry height="30" width="60" x="1260" y="4640" as="geometry" />
+        </mxCell>
+        <mxCell id="6gkw_ak-5Fi31MjoUiL3-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="slRtmOML4Cu0QKLQynJd-40" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1170" y="4590" as="sourcePoint" />
+            <mxPoint x="910" y="4700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gkw_ak-5Fi31MjoUiL3-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1170" y="4590" as="sourcePoint" />
+            <mxPoint x="140" y="4590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
