@@ -183,7 +183,7 @@
           <mxGeometry height="30" width="60" x="212.51" y="1570" as="geometry" />
         </mxCell>
         <mxCell id="banREk6lfHNLzXonjIwj-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Süreç Bitti" vertex="1">
-          <mxGeometry height="60" width="120" x="363" y="1580" as="geometry" />
+          <mxGeometry height="60" width="120" x="320" y="1580" as="geometry" />
         </mxCell>
         <mxCell id="banREk6lfHNLzXonjIwj-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Evet" vertex="1">
           <mxGeometry height="30" width="60" x="160" y="1670" as="geometry" />
