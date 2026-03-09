@@ -317,7 +317,7 @@
           <mxGeometry height="130" width="170" x="58.72000000000003" y="4660" as="geometry" />
         </mxCell>
         <mxCell id="1Xib3VTixCMWsArMFsV8-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EVET" vertex="1">
-          <mxGeometry height="30" width="60" x="160.48" y="4790" as="geometry" />
+          <mxGeometry height="20" width="40" x="171.21" y="4780" as="geometry" />
         </mxCell>
         <mxCell id="1Xib3VTixCMWsArMFsV8-35" edge="1" parent="1" source="1Xib3VTixCMWsArMFsV8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
@@ -646,18 +646,18 @@
           <mxGeometry height="70" width="190" x="220.48" y="4480" as="geometry" />
         </mxCell>
         <mxCell id="6gkw_ak-5Fi31MjoUiL3-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Evet" vertex="1">
-          <mxGeometry height="30" width="60" x="1260" y="4640" as="geometry" />
+          <mxGeometry height="30" width="60" x="1200" y="4620" as="geometry" />
         </mxCell>
         <mxCell id="6gkw_ak-5Fi31MjoUiL3-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="slRtmOML4Cu0QKLQynJd-40" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1170" y="4590" as="sourcePoint" />
+            <mxPoint x="1170" y="4530" as="sourcePoint" />
             <mxPoint x="910" y="4700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6gkw_ak-5Fi31MjoUiL3-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1170" y="4590" as="sourcePoint" />
-            <mxPoint x="140" y="4590" as="targetPoint" />
+            <mxPoint x="1170" y="4530" as="sourcePoint" />
+            <mxPoint x="210.92000000000002" y="4530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SsPL3BjcfPzNs_ACePxW-2" edge="1" parent="1" source="SsPL3BjcfPzNs_ACePxW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
@@ -690,6 +690,11 @@
             <mxPoint x="150" y="4960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SsPL3BjcfPzNs_ACePxW-14" edge="1" parent="1" source="SsPL3BjcfPzNs_ACePxW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="4960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SsPL3BjcfPzNs_ACePxW-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Muhsabe evrakları hazırlar" vertex="1">
           <mxGeometry height="60" width="100" x="180" y="4930" as="geometry" />
         </mxCell>
@@ -699,7 +704,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SsPL3BjcfPzNs_ACePxW-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sevkiyat yapışır" vertex="1">
-          <mxGeometry height="40" width="76.78" x="203.22" y="5010" as="geometry" />
+          <mxGeometry height="40" width="76.78" x="202.42" y="5010" as="geometry" />
+        </mxCell>
+        <mxCell id="SsPL3BjcfPzNs_ACePxW-20" edge="1" parent="1" source="SsPL3BjcfPzNs_ACePxW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="5080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsPL3BjcfPzNs_ACePxW-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Siparişi kapatılır." vertex="1">
+          <mxGeometry height="40" width="90" x="190" y="5060" as="geometry" />
+        </mxCell>
+        <mxCell id="SsPL3BjcfPzNs_ACePxW-19" edge="1" parent="1" source="SsPL3BjcfPzNs_ACePxW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="4820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsPL3BjcfPzNs_ACePxW-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sisteme adet girildi." vertex="1">
+          <mxGeometry height="40" width="80" x="186.88" y="4800" as="geometry" />
+        </mxCell>
+        <mxCell id="SsPL3BjcfPzNs_ACePxW-21" edge="1" parent="1" source="1Xib3VTixCMWsArMFsV8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="1Xib3VTixCMWsArMFsV8-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
