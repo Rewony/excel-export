@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Sayfa -1" id="Zq1XwL6BJFrbouuzvJcs">
-    <mxGraphModel dx="1665" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1025" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,7 +314,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1Xib3VTixCMWsArMFsV8-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Finalden Geçildi mi ?" vertex="1">
-          <mxGeometry height="130" width="170" x="58.22000000000003" y="4660" as="geometry" />
+          <mxGeometry height="130" width="170" x="58.72000000000003" y="4660" as="geometry" />
         </mxCell>
         <mxCell id="1Xib3VTixCMWsArMFsV8-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EVET" vertex="1">
           <mxGeometry height="30" width="60" x="160.48" y="4790" as="geometry" />
@@ -324,8 +324,8 @@
             <mxPoint x="140" y="5130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Xib3VTixCMWsArMFsV8-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ürünlerin alımı yapılır" vertex="1">
-          <mxGeometry height="60" width="120" x="80" y="4940" as="geometry" />
+        <mxCell id="1Xib3VTixCMWsArMFsV8-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ürünlerin alımı isteği gelir" vertex="1">
+          <mxGeometry height="60" width="120" x="80.94" y="4850" as="geometry" />
         </mxCell>
         <mxCell id="1Xib3VTixCMWsArMFsV8-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Bitiş" vertex="1">
           <mxGeometry height="60" width="120" x="80.94" y="5130" as="geometry" />
@@ -659,6 +659,47 @@
             <mxPoint x="1170" y="4590" as="sourcePoint" />
             <mxPoint x="140" y="4590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SsPL3BjcfPzNs_ACePxW-2" edge="1" parent="1" source="SsPL3BjcfPzNs_ACePxW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="1875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsPL3BjcfPzNs_ACePxW-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="seher hanıma süreç hakkında bilgi veirildi atölye sözleşmesi hazırlatıldı.&lt;div&gt;(hazırlanığ mail atıldı.)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="210" x="220.48" y="1830" as="geometry" />
+        </mxCell>
+        <mxCell id="SsPL3BjcfPzNs_ACePxW-4" edge="1" parent="1" source="SsPL3BjcfPzNs_ACePxW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="4390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsPL3BjcfPzNs_ACePxW-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Seher hanıma bilgi veirldi sisteme yüklenip çeki listesi ve koli etiketi alındı ." vertex="1">
+          <mxGeometry height="80" width="150" x="220" y="4350" as="geometry" />
+        </mxCell>
+        <mxCell id="SsPL3BjcfPzNs_ACePxW-7" edge="1" parent="1" source="SsPL3BjcfPzNs_ACePxW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SsPL3BjcfPzNs_ACePxW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SsPL3BjcfPzNs_ACePxW-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Seher hanım lot etiketi hazırladı (poşet üstü etiketi ahzırladı atölyeye gönderdi" vertex="1">
+          <mxGeometry height="100" width="180" x="260" y="4200" as="geometry" />
+        </mxCell>
+        <mxCell id="SsPL3BjcfPzNs_ACePxW-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SUb progress" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="4235" as="geometry" />
+        </mxCell>
+        <mxCell id="SsPL3BjcfPzNs_ACePxW-9" edge="1" parent="1" source="SsPL3BjcfPzNs_ACePxW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="4960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsPL3BjcfPzNs_ACePxW-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Muhsabe evrakları hazırlar" vertex="1">
+          <mxGeometry height="60" width="100" x="180" y="4930" as="geometry" />
+        </mxCell>
+        <mxCell id="SsPL3BjcfPzNs_ACePxW-11" edge="1" parent="1" source="SsPL3BjcfPzNs_ACePxW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="5030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsPL3BjcfPzNs_ACePxW-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sevkiyat yapışır" vertex="1">
+          <mxGeometry height="40" width="76.78" x="203.22" y="5010" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
