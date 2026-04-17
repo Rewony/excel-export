@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36">
   <diagram name="Sayfa -1" id="Zq1XwL6BJFrbouuzvJcs">
-    <mxGraphModel dx="1332" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1010" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
           <mxGeometry height="150" width="158.12" x="61.88" y="1140" as="geometry" />
         </mxCell>
         <mxCell id="banREk6lfHNLzXonjIwj-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hayır" vertex="1">
-          <mxGeometry height="30" width="60" x="212.51" y="1170" as="geometry" />
+          <mxGeometry height="30" width="60" x="208.22" y="1165" as="geometry" />
         </mxCell>
         <mxCell id="banREk6lfHNLzXonjIwj-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Evet" vertex="1">
           <mxGeometry height="30" width="60" x="39.999999999999986" y="1290" as="geometry" />
@@ -725,6 +725,46 @@
         </mxCell>
         <mxCell id="GnAmn_FjF7y8GCWExbn0-20" edge="1" parent="1" source="GnAmn_FjF7y8GCWExbn0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.449;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" target="banREk6lfHNLzXonjIwj-77">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xu8rShr7kodQ1OFIdZ2e-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Revize SMS dikilecek mi&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="700" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Xu8rShr7kodQ1OFIdZ2e-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Revize Proto dikilecek mi&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="90" x="430" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xu8rShr7kodQ1OFIdZ2e-5" edge="1" parent="1" source="Xu8rShr7kodQ1OFIdZ2e-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="2025" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xu8rShr7kodQ1OFIdZ2e-7" edge="1" parent="1" source="Xu8rShr7kodQ1OFIdZ2e-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="2090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xu8rShr7kodQ1OFIdZ2e-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ön maliyetin açılması belirlenmesi&amp;nbsp;" vertex="1">
+          <mxGeometry height="90" width="150" x="260" y="1980" as="geometry" />
+        </mxCell>
+        <mxCell id="Xu8rShr7kodQ1OFIdZ2e-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="bulk kumaş teste gönderilir dikili ürün teste gönderilir" vertex="1">
+          <mxGeometry height="70" width="130" x="375" y="2450" as="geometry" />
+        </mxCell>
+        <mxCell id="Xu8rShr7kodQ1OFIdZ2e-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="bi top kumaş(imaşlat kumaşı pps için istenir kumaş testi istenir" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="2311" as="geometry" />
+        </mxCell>
+        <mxCell id="Xu8rShr7kodQ1OFIdZ2e-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="blanketler istenir&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="410.48" y="2326" as="geometry" />
+        </mxCell>
+        <mxCell id="Xu8rShr7kodQ1OFIdZ2e-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tamir edilen kumaş yeniden teste gider" vertex="1">
+          <mxGeometry height="50" width="90" x="1040" y="3530" as="geometry" />
+        </mxCell>
+        <mxCell id="Xu8rShr7kodQ1OFIdZ2e-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="?" vertex="1">
+          <mxGeometry height="90" width="130" x="550" y="3950" as="geometry" />
+        </mxCell>
+        <mxCell id="Xu8rShr7kodQ1OFIdZ2e-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="final taleibni müşteri temsilcisi geçiyor" vertex="1">
+          <mxGeometry height="50" width="89.52" x="465.24" y="4960" as="geometry" />
+        </mxCell>
+        <mxCell id="Xu8rShr7kodQ1OFIdZ2e-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="eksik fazla yükleme adedi bilgisi geçilir" vertex="1">
+          <mxGeometry height="50" width="130" x="250" y="4150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
